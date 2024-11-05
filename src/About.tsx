@@ -72,13 +72,13 @@ export function About() {
       />
       <p>
         Report issues{" "}
-        <a href="https://github.com/lynn/hello-wordl/issues">here</a>, or tweet{" "}
-        <a href="https://twitter.com/chordbug">@chordbug</a>.
+        <a href="https://github.com/hello-wordle/hello-wordle.github.io/issues">here</a>, or tweet{" "}
+        <a href="https://twitter.com/hello-wordle">@chordbug</a>.
       </p>
       <p>
         This game will be free and ad-free forever,
         <br />
-        but you can <a href="https://ko-fi.com/chordbug">buy me a coffee</a> if
+        but you can <a href="https://ko-fi.com/hello-wordle">buy me a coffee</a> if
         you'd like.
       </p>
     </div>

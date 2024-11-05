@@ -1,7 +1,7 @@
 {
-  "name": "wordl",
+  "name": "hello wordle",
   "version": "0.1.0",
-  "homepage": "http://hellowordl.net/",
+  "homepage": "https://hello-wordle.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",

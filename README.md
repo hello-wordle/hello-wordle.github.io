@@ -1,6 +1,6 @@
 # hello
 
-A word game. Play it [**here**](https://hellowordl.net/).
+A word game. Play it [**here**](https://hello-wordle.github.io/).
 
 ## Introduction
 
